@@ -1,15 +1,15 @@
 # NeuralArt
 C# implementation of "A Neural Algorithm of Artistic Style".
 
-# Как запустить
-Выполнить Compile.bat. В папке Release появится файл NeuralArt.exe. Запустить его и следовать инструкциям в открывшемся окне. Кроме того, репозиторий содержит откомпилированную версию программы в папке Release.
+# How to run
+To Perform The Compile.bat. In the Release folder you will see a file NeuralArt.exe. Run it and follow the instructions in the window that opens. In addition, the repository contains a compiled version of the program in the Release folder.
 
-# Время обработки
-На моём компьютере с Intel(R) Core(TM) i3 2.40 GHz, итерация в разрешении 320x240 занимает 90 сек; в разрешении 480x360 - 180 сек; в разрешении 640x480 - 320 сек. Минимальный объём свободной оперативной памяти: 1 ГБ.
+# Speed
+On my computer with Intel(P) core(TM) I3 processor 2.40 GHz, iteration in resolution 320x240 takes 90 seconds; in resolution 480 x 360 - 180 seconds; in resolution 640x480 - 320 seconds. Minimum free RAM: 1 GB.
 
-# Результаты
+# Results
 
-Количество итераций - 35 для каждого изображения.
+The number of iterations is 35 for each image.
 
 __Udnie__
 
@@ -31,11 +31,11 @@ __Wreck__
 
 ![Wreck](https://github.com/PABCSoft/NeuralArt/blob/master/Results/wreck.png)
 
-# Развитие приложения:
+# The development of the application:
 
-* Использование L-BFGS-B вместо Adam
-* Оптимизация кода с использованием указателей
-* Реализация версии приложения на языке PascalABC.NET
+* The use of L-BFGS-B instead of Adam
+* Code optimization using pointers
+* Implementation of the language version of the application PascalABC.NET
 
-# Ресурсы & Благодарности
-При разработке приложения использовалась библиотека ConvNetCS от Mashmawy: https://github.com/mashmawy/ConvNetCS и реализация алгоритма на Torch от Justin Johnson: https://github.com/jcjohnson/neural-style.
+# Resources & Credits
+When developing the application, the library ConvNetCS from Mashmawy was used: https://github.com/mashmawy/ConvNetCS and implementation of the Torch algorithm by Justin Johnson: https://github.com/jcjohnson/neural-style.
