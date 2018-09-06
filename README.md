@@ -8,6 +8,9 @@ C# implementation of "A Neural Algorithm of Artistic Style".
 На моём компьютере с Intel(R) Core(TM) i3 2.40 GHz, итерация в разрешении 320x240 занимает 90 сек; в разрешении 480x360 - 180 сек; в разрешении 640x480 - 320 сек. Минимальный объём свободной оперативной памяти: 1 ГБ.
 
 # Результаты
+
+Количество итераций - 35 для каждого изображения.
+
 Udnie
 
 ![Udnie](https://github.com/PABCSoft/NeuralArt/blob/master/Results/picabia.png)
