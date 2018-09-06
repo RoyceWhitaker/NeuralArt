@@ -28,5 +28,11 @@ Wreck
 
 ![Wreck](https://github.com/PABCSoft/NeuralArt/blob/master/Results/wreck.png)
 
+# Развитие приложения:
+
+* Использование L-BFGS-B вместо Adam
+* Оптимизация кода с использованием указателей
+* Реализация версии приложения на языке PascalABC.NET
+
 # Ресурсы & Благодарности
 При разработке приложения использовалась библиотека ConvNetCS от Mashmawy: https://github.com/mashmawy/ConvNetCS и реализация алгоритма на Torch от Justin Johnson: https://github.com/jcjohnson/neural-style.
