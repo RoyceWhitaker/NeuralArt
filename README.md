@@ -11,23 +11,23 @@ C# implementation of "A Neural Algorithm of Artistic Style".
 
 Количество итераций - 35 для каждого изображения.
 
-_Udnie_
+__Udnie__
 
 ![Udnie](https://github.com/PABCSoft/NeuralArt/blob/master/Results/picabia.png)
 
-_Scream_
+__Scream__
 
 ![Scream](https://github.com/PABCSoft/NeuralArt/blob/master/Results/scream.png)
 
-_Seated Nude_
+__Seated Nude__
 
 ![Seated Nude](https://github.com/PABCSoft/NeuralArt/blob/master/Results/seated_nude.png)
 
-_Starry night_
+__Starry night__
 
 ![Starry night](https://github.com/PABCSoft/NeuralArt/blob/master/Results/starry_night.png)
 
-_Wreck_
+__Wreck__
 
 ![Wreck](https://github.com/PABCSoft/NeuralArt/blob/master/Results/wreck.png)
 
