@@ -38,4 +38,4 @@ __Wreck__
 * Реализация версии приложения на языке PascalABC.NET
 
 # Ресурсы & Благодарности
-При разработке приложения использовалась библиотека ConvNetCS от Mashmawy: https://github.com/mashmawy/ConvNetCS и реализация алгоритма на Torch от Justin Johnson: https://github.com/jcjohnson/neural-style.
+При разработке приложения использовалась библиотека ConvNetCS от Mashmawy: https://github.com/mashmawy/ConvNetCS и реализация алгоритма на Torch от Justin Johnson: https://github.com/jcjohnson/neural-style. Очень полезной оказалась реализация от Kautenja: https://github.com/Kautenja/neural-style-transfer/
