@@ -334,7 +334,7 @@ namespace NeuralArt{
           var x = 2 * ax;
           for (var ay = 0; ay < this.OutputHeight; ay++){
             var y = 2 * ay; 
-            float a = A.GetDW(ax, ay, d);
+            float a = A.GetDW(ax, ay, d) / 4.0f;
             for (byte fx = 0; fx < 2; fx++){
               for (byte fy = 0; fy < 2; fy++){
                 var oy = y + fy;
